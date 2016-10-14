@@ -1,0 +1,17 @@
+{
+  "name": "spm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "md_convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^0.30.0",
+    "markdown-it": "^8.0.0",
+    "replaceall": "^0.1.6"
+  }
+}
